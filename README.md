@@ -4,6 +4,7 @@
 **Please play our game through downloading the zip file in github, and only play the game through simmer.io as a backup**
 
 # Compilation:
+  - Download the PythonBasics folder and extract the zip file
   - See the attached Hackathon.exe file in the PythonBasics folder
   - Execute said .exe file to play the game.
 
